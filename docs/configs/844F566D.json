@@ -1,0 +1,15 @@
+{
+    "ConfigID": "844F566D",
+    "Category": "DE-BW",
+    "ProviderID": "K7",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "AS Rutesheim",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K7\/K7_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K7"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

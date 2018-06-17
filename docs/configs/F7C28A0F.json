@@ -1,0 +1,15 @@
+{
+    "ConfigID": "F7C28A0F",
+    "Category": "DE-BY",
+    "ProviderID": "a8w-km000-brm",
+    "Street": "AK M\u00fcnchen-West - M. Obermenzing",
+    "Area": "AK M\u00fcnchen-West - M. Obermenzing",
+    "Location": "AK M\u00fcnchen-West - M. Obermenzing",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 0",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8stuttgart-munich\/a8w-km000-brm.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-stuttgart-muenchen"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "FCB49123",
+    "Category": "DE-BY",
+    "ProviderID": "kamera-pwc-rohrbach-west-2",
+    "Street": "A9 Rohrbach West - FR M\u00fcnchen",
+    "Area": "A9 Rohrbach West - FR M\u00fcnchen",
+    "Location": "A9 Rohrbach West - FR M\u00fcnchen",
+    "Direction": "Blickrichtung&nbsp;Nord-Westen, km 477",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9-pl-rohrbach\/kamera-pwc-rohrbach-west-2.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-an-rastanlagen\/a9-pwc-rohrbach"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277832
+}

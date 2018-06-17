@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2AE3C351",
+    "Category": "DE-BW",
+    "ProviderID": "TU014",
+    "Street": "B10",
+    "Area": "Ulm",
+    "Location": "AS Ulm-West",
+    "Direction": "Ulm",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/TU014\/TU014_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=TU014"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

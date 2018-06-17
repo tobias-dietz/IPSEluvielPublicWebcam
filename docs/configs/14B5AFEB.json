@@ -1,0 +1,15 @@
+{
+    "ConfigID": "14B5AFEB",
+    "Category": "DE-BW",
+    "ProviderID": "S291",
+    "Street": "B27",
+    "Area": "Stuttgart",
+    "Location": "Aichtalbr\u00fccke",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S291\/S291_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S291"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "CC0DD217",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212068",
+    "Street": "AS Regensburg-Ost",
+    "Area": "AS Regensburg-Ost",
+    "Location": "AS Regensburg-Ost",
+    "Direction": "Blickrichtung&nbsp;Passau, km 498",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3regensburg-passau\/mobil212068.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-regensburg-passau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "79FB2D47",
+    "Category": "DE-BY",
+    "ProviderID": "mobil001",
+    "Street": "AS Schnaittach - AS Hormersdorf",
+    "Area": "AS Schnaittach - AS Hormersdorf",
+    "Location": "AS Schnaittach - AS Hormersdorf",
+    "Direction": "Blickrichtung&nbsp;Berlin, km 354",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9nuremberg-hof\/mobil001.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a9-nuernberg-hof"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

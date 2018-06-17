@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A46A809D",
+    "Category": "DE-BW",
+    "ProviderID": "FR081",
+    "Street": "A81",
+    "Area": "Singen",
+    "Location": "Autobahnende Gottmadingen-Bietingen",
+    "Direction": "Singen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR081\/FR081_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR081"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

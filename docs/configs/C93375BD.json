@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C93375BD",
+    "Category": "DE-BW",
+    "ProviderID": "S011",
+    "Street": "A6",
+    "Area": "Heilbronn",
+    "Location": "AS Heilbronn\/Untereisesheim",
+    "Direction": "N\u00fcrnberg",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S011\/S011_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S011"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

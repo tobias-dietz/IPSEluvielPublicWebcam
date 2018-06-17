@@ -1,0 +1,15 @@
+{
+    "ConfigID": "6821C5C6",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.112.11",
+    "Street": "AS Feucht - AD N\u00fcrnberg\/Feucht",
+    "Area": "AS Feucht - AD N\u00fcrnberg\/Feucht",
+    "Location": "AS Feucht - AD N\u00fcrnberg\/Feucht",
+    "Direction": "Blickrichtung&nbsp;AD N\u00fcrnberg\/Feucht, km 0",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a73bamberg-nuremberg\/192.168.112.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a73-bamberg-nuernberg-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

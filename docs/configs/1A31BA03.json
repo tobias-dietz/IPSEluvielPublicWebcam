@@ -1,0 +1,15 @@
+{
+    "ConfigID": "1A31BA03",
+    "Category": "DE-BW",
+    "ProviderID": "S203",
+    "Street": "B313",
+    "Area": "Stuttgart",
+    "Location": "AS Wendlingen",
+    "Direction": "Plochingen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S203\/S203_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S203"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A0B6C0D1",
+    "Category": "DE-BY",
+    "ProviderID": "kamera-pwc-baarer-weiher-west-4",
+    "Street": "A9 Baarer Weiher West - FR M\u00fcnchen",
+    "Area": "A9 Baarer Weiher West - FR M\u00fcnchen",
+    "Location": "A9 Baarer Weiher West - FR M\u00fcnchen",
+    "Direction": "Blickrichtung&nbsp;Osten, km 468,5",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9-pl-baarer\/kamera-pwc-baarer-weiher-west-4.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-an-rastanlagen\/a9-pwc-baarer-weiher"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277831
+}

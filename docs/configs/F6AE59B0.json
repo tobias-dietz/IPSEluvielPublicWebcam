@@ -1,0 +1,15 @@
+{
+    "ConfigID": "F6AE59B0",
+    "Category": "DE-BW",
+    "ProviderID": "K6",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "AD Leonberg",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K6\/K6_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K6"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

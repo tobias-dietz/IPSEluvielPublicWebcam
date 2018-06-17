@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A0723376",
+    "Category": "DE-BW",
+    "ProviderID": "K8063",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "AS Leonberg-Ost",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K8063\/K8063_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K8063"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

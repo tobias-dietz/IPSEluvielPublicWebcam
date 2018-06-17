@@ -1,0 +1,15 @@
+{
+    "ConfigID": "713A4107",
+    "Category": "DE-BE",
+    "ProviderID": "940b3dee",
+    "Street": "Theodor-Heuss-Platz LM23, Blickrichtung: Kasierdamm (Ost)",
+    "Area": "Theodor-Heuss-Platz LM23, Blickrichtung: Kasierdamm (Ost)",
+    "Location": "Theodor-Heuss-Platz LM23, Blickrichtung: Kasierdamm (Ost)",
+    "Direction": "Theodor-Heuss-Platz LM23, Blickrichtung: Kasierdamm (Ost)",
+    "HTTP": {
+        "URL": "http:\/\/vmz-kameras.verwalt-berlin.de\/PicServlet?cam=Cam 013",
+        "Referer": "http:\/\/viz.berlin.de\/web\/guest\/2?p_p_id=vizmap_WAR_vizmapportlet_INSTANCE_Ds4N&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_vizmap_WAR_vizmapportlet_INSTANCE_Ds4N_cmd=traffic&_vizmap_WAR_vizmapportlet_INSTANCE_Ds4N_submenu=traffic_webcams"
+    },
+    "Source": "Verkehrsinformationszentrale Berlin (viz.berlin.de)",
+    "Version": 1529277820
+}

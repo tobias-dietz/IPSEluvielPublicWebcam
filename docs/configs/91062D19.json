@@ -1,0 +1,15 @@
+{
+    "ConfigID": "91062D19",
+    "Category": "DE-BW",
+    "ProviderID": "KA111",
+    "Street": "B10",
+    "Area": "Karlsruhe",
+    "Location": "AS Karlsruhe-Knielingen",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA111\/KA111_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA111"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

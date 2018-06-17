@@ -1,0 +1,15 @@
+{
+    "ConfigID": "5970D48B",
+    "Category": "DE-RP",
+    "ProviderID": "010",
+    "Street": "B9",
+    "Area": "Koblenz",
+    "Location": "0 km",
+    "Direction": "B9, Koblenz (0 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/010\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "8CE04D19",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200155",
+    "Street": "AK M\u00fcnchen-Nord",
+    "Area": "AK M\u00fcnchen-Nord",
+    "Location": "AK M\u00fcnchen-Nord",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 25",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/mobil200155.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

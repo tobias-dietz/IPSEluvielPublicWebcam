@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4F44FB8E",
+    "Category": "DE-BY",
+    "ProviderID": "a99-km003-brsa",
+    "Street": "s\u00fcdlich vom Tunnel Aubing",
+    "Area": "s\u00fcdlich vom Tunnel Aubing",
+    "Location": "s\u00fcdlich vom Tunnel Aubing",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 3",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/a99-km003-brsa.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

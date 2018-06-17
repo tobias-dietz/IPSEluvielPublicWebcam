@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E66C499E",
+    "Category": "DE-BW",
+    "ProviderID": "EXT011",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "Br\u00fccke MA-Friedrichsfeld West",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT011\/EXT011_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT011"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

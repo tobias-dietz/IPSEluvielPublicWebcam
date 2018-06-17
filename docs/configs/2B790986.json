@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2B790986",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210091",
+    "Street": "Landsberg a.L.-Ost - Landsberg a.L.-Nord",
+    "Area": "Landsberg a.L.-Ost - Landsberg a.L.-Nord",
+    "Location": "Landsberg a.L.-Ost - Landsberg a.L.-Nord",
+    "Direction": "Blickrichtung&nbsp;Lindau, km 121",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a96munich-lindau\/mobil210091.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a96-muenchen-lindau-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

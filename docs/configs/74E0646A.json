@@ -1,0 +1,15 @@
+{
+    "ConfigID": "74E0646A",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212108",
+    "Street": "AK M-Nord - AS Aschheim-Ismaning",
+    "Area": "AK M-Nord - AS Aschheim-Ismaning",
+    "Location": "AK M-Nord - AS Aschheim-Ismaning",
+    "Direction": "Blickrichtung&nbsp;Stuttgart, km 28",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a99munich-south-west\/mobil212108.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a99-muenchen-sued-west_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2DB5EE93",
+    "Category": "DE-RP",
+    "ProviderID": "810",
+    "Street": "A65\/B10",
+    "Area": "W\u00f6rth-Dorschberg",
+    "Location": "156 km",
+    "Direction": "A65\/B10, W\u00f6rth-Dorschberg (156 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/810\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "7351D392",
+    "Category": "DE-BW",
+    "ProviderID": "S211",
+    "Street": "A8",
+    "Area": "Ulm",
+    "Location": "AS Hohenstadt",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S211\/S211_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S211"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

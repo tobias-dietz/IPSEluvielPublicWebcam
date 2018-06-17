@@ -1,0 +1,15 @@
+{
+    "ConfigID": "00C1010C",
+    "Category": "DE-RP",
+    "ProviderID": "1030",
+    "Street": "A61",
+    "Area": "Kreuz Frankenthal",
+    "Location": "351,0 km",
+    "Direction": "A61, Kreuz Frankenthal (351,0 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/1030\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

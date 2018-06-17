@@ -1,0 +1,15 @@
+{
+    "ConfigID": "07606885",
+    "Category": "DE-BW",
+    "ProviderID": "TU021",
+    "Street": "A96",
+    "Area": "Allg\u00e4u",
+    "Location": "Obere Argenbr\u00fccke",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/TU021\/TU021_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=TU021"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

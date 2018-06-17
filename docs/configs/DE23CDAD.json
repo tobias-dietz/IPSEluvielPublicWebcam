@@ -1,0 +1,15 @@
+{
+    "ConfigID": "DE23CDAD",
+    "Category": "DE-BW",
+    "ProviderID": "B01",
+    "Street": "A8",
+    "Area": "Karlsruhe",
+    "Location": "Pfinztalbr\u00fccke (Remchingen-N\u00f6ttingen)",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/B01\/B01_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=B01"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

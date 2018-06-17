@@ -1,0 +1,15 @@
+{
+    "ConfigID": "8DF12717",
+    "Category": "DE-BY",
+    "ProviderID": "a96-km134-brli",
+    "Street": "AS Sch\u00f6ffelding - AS Windach",
+    "Area": "AS Sch\u00f6ffelding - AS Windach",
+    "Location": "AS Sch\u00f6ffelding - AS Windach",
+    "Direction": "Blickrichtung&nbsp;Lindau, km 134",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a96munich-lindau\/a96-km134-brli.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a96-muenchen-lindau-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "9A964735",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.113.11",
+    "Street": "AK N\u00fcrnberg-S\u00fcd - AS Roth",
+    "Area": "AK N\u00fcrnberg-S\u00fcd - AS Roth",
+    "Location": "AK N\u00fcrnberg-S\u00fcd - AS Roth",
+    "Direction": "Blickrichtung&nbsp;Heilbronn, km 788",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a6nuremberg-heilbronn\/192.168.113.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a6-nuernberg-heilbronn"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "1A7E6E4B",
+    "Category": "DE-BW",
+    "ProviderID": "TU013",
+    "Street": "B10",
+    "Area": "Ulm",
+    "Location": "AS Ulm-West",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/TU013\/TU013_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=TU013"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

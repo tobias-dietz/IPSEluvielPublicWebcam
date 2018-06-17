@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E20D6121",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211043",
+    "Street": "AS Rosenhof - AS Neutraubling",
+    "Area": "AS Rosenhof - AS Neutraubling",
+    "Location": "AS Rosenhof - AS Neutraubling",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 504",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3passau-regensburg\/mobil211043.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-passau-regensburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

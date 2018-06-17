@@ -1,0 +1,15 @@
+{
+    "ConfigID": "DB0BE2F5",
+    "Category": "DE-BW",
+    "ProviderID": "KA034",
+    "Street": "B10",
+    "Area": "Karlsruhe",
+    "Location": "AS Karlsruhe-Nord",
+    "Direction": "KA-Gr\u00f6tzingen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA034\/KA034_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA034"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

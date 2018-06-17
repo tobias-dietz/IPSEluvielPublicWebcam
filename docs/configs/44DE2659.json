@@ -1,0 +1,15 @@
+{
+    "ConfigID": "44DE2659",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200171",
+    "Street": "AS Inning am Ammersee",
+    "Area": "AS Inning am Ammersee",
+    "Location": "AS Inning am Ammersee",
+    "Direction": "Blickrichtung&nbsp;Lindau, km 143",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a96munich-lindau\/mobil200171.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a96-muenchen-lindau-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

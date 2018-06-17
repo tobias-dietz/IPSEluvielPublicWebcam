@@ -1,0 +1,15 @@
+{
+    "ConfigID": "5F0C4D05",
+    "Category": "DE-BW",
+    "ProviderID": "FR061",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "Neckartalbr\u00fccke Weitingen",
+    "Direction": "Singen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR061\/FR061_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR061"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

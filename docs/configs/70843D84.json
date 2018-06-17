@@ -1,0 +1,15 @@
+{
+    "ConfigID": "70843D84",
+    "Category": "DE-RP",
+    "ProviderID": "800",
+    "Street": "A65",
+    "Area": "Landau-Nord",
+    "Location": "133,9 km",
+    "Direction": "A65, Landau-Nord (133,9 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/800\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

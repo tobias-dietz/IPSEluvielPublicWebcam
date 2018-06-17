@@ -1,0 +1,15 @@
+{
+    "ConfigID": "DFC7F569",
+    "Category": "DE-BW",
+    "ProviderID": "KA121",
+    "Street": "B10",
+    "Area": "Karlsruhe",
+    "Location": "AS Karlsruhe-Honsellstra\u00dfe",
+    "Direction": "Pirmasens",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA121\/KA121_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA121"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "AF3C30CD",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210227",
+    "Street": "AS Hengersberg - AK Deggendorf",
+    "Area": "AS Hengersberg - AK Deggendorf",
+    "Location": "AS Hengersberg - AK Deggendorf",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 565",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3passau-regensburg\/mobil210227.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-passau-regensburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B99E57DC",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.121.11",
+    "Street": "AS N.\/Behringersdorf - AS N\u00fcrnberg Nord",
+    "Area": "AS N.\/Behringersdorf - AS N\u00fcrnberg Nord",
+    "Location": "AS N.\/Behringersdorf - AS N\u00fcrnberg Nord",
+    "Direction": "Blickrichtung&nbsp;W\u00fcrzburg, km 395",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3regensburg-wuerzburg\/192.168.121.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a3-regensburg-wuerzburg_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

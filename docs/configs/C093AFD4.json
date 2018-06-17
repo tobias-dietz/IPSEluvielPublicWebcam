@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C093AFD4",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200043",
+    "Street": "AD Holledau - AS Pfaffenhofen",
+    "Area": "AD Holledau - AS Pfaffenhofen",
+    "Location": "AD Holledau - AS Pfaffenhofen",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 484",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A9Nuremberg-Munich\/mobil200043.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-nuernberg-munich"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

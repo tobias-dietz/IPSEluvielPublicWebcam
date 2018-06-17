@@ -1,0 +1,11 @@
+{
+    "id": "{7F9B00B7-A65A-4BDC-9FB3-6AD550608513}",
+    "name": "EluvielPublicWebcam",
+    "type": 3,
+    "vendor": "eluviel",
+    "aliases": ["Öffentliche Webcam"],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "EluvielPublicWebcam"
+}

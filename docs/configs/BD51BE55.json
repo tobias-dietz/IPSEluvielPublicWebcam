@@ -1,0 +1,15 @@
+{
+    "ConfigID": "BD51BE55",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211083",
+    "Street": "AS Neukirchen - AS Fuchssteig",
+    "Area": "AS Neukirchen - AS Fuchssteig",
+    "Location": "AS Neukirchen - AS Fuchssteig",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 109",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8ad-inntal-salzburg\/mobil211083.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-ad-inntal-salzburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

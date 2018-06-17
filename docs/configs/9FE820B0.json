@@ -1,0 +1,15 @@
+{
+    "ConfigID": "9FE820B0",
+    "Category": "DE-BW",
+    "ProviderID": "KA013",
+    "Street": "A5",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Walldorf",
+    "Direction": "Heidelberg",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA013\/KA013_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA013"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

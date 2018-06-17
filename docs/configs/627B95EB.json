@@ -1,0 +1,15 @@
+{
+    "ConfigID": "627B95EB",
+    "Category": "DE-BW",
+    "ProviderID": "KA142",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Heidelberg",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA142\/KA142_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA142"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "AEBD1185",
+    "Category": "DE-BW",
+    "ProviderID": "S101",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "Neckarbr\u00fccke Pleidelsheim",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S101\/S101_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S101"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

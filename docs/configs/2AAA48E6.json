@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2AAA48E6",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.114.11",
+    "Street": "AS Erlangen-Tennenlohe-AK F\u00fcrth-Erlangen",
+    "Area": "AS Erlangen-Tennenlohe-AK F\u00fcrth-Erlangen",
+    "Location": "AS Erlangen-Tennenlohe-AK F\u00fcrth-Erlangen",
+    "Direction": "Blickrichtung&nbsp;W\u00fcrzburg, km 382",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3regensburg-wuerzburg\/192.168.114.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a3-regensburg-wuerzburg_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

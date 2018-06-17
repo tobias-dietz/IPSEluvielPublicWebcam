@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B53C77C9",
+    "Category": "DE-BW",
+    "ProviderID": "S112",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "Ludwigsburg",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S112\/S112_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S112"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

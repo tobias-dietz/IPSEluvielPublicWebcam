@@ -1,0 +1,15 @@
+{
+    "ConfigID": "921226C1",
+    "Category": "DE-BW",
+    "ProviderID": "EXT031",
+    "Street": "A6",
+    "Area": "Heilbronn",
+    "Location": "Erlenbach",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT031\/EXT031_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT031"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

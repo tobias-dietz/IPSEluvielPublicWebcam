@@ -1,0 +1,15 @@
+{
+    "ConfigID": "97D6BB11",
+    "Category": "DE-BE",
+    "ProviderID": "26f1a635",
+    "Street": "Heerstr. Portal P16, Blickrichtung: Heerstra\u00dfe (West)",
+    "Area": "Heerstr. Portal P16, Blickrichtung: Heerstra\u00dfe (West)",
+    "Location": "Heerstr. Portal P16, Blickrichtung: Heerstra\u00dfe (West)",
+    "Direction": "Heerstr. Portal P16, Blickrichtung: Heerstra\u00dfe (West)",
+    "HTTP": {
+        "URL": "http:\/\/vmz-kameras.verwalt-berlin.de\/PicServlet?cam=Cam 001",
+        "Referer": "http:\/\/viz.berlin.de\/web\/guest\/2?p_p_id=vizmap_WAR_vizmapportlet_INSTANCE_Ds4N&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_vizmap_WAR_vizmapportlet_INSTANCE_Ds4N_cmd=traffic&_vizmap_WAR_vizmapportlet_INSTANCE_Ds4N_submenu=traffic_webcams"
+    },
+    "Source": "Verkehrsinformationszentrale Berlin (viz.berlin.de)",
+    "Version": 1529277820
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4DAB4921",
+    "Category": "DE-BW",
+    "ProviderID": "KA043",
+    "Street": "K9652",
+    "Area": "Karlsruhe",
+    "Location": "AS Karlsruhe-Mitte",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA043\/KA043_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA043"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

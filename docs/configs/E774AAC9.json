@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E774AAC9",
+    "Category": "DE-BW",
+    "ProviderID": "RLP820",
+    "Street": "B10",
+    "Area": "Rheinland-Pfalz",
+    "Location": "Rheinbr\u00fccke W\u00f6rth",
+    "Direction": "Pirmasens",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/RLP820\/RLP820_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=RLP820"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

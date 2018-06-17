@@ -1,0 +1,15 @@
+{
+    "ConfigID": "61C15180",
+    "Category": "DE-BW",
+    "ProviderID": "K8103",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "Korntal",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K8103\/K8103_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K8103"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

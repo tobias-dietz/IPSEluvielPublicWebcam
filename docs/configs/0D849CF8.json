@@ -1,0 +1,15 @@
+{
+    "ConfigID": "0D849CF8",
+    "Category": "DE-BW",
+    "ProviderID": "KA171",
+    "Street": "A6",
+    "Area": "Rhein-Neckar",
+    "Location": "AD Hockenheim",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA171\/KA171_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA171"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

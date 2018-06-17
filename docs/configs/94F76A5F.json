@@ -1,0 +1,15 @@
+{
+    "ConfigID": "94F76A5F",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210171",
+    "Street": "AS Erkheim - AS Stetten",
+    "Area": "AS Erkheim - AS Stetten",
+    "Location": "AS Erkheim - AS Stetten",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 81",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a96lindau-munich\/mobil210171.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a96-lindau-muenchen"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "1E74979F",
+    "Category": "DE-BW",
+    "ProviderID": "KA041",
+    "Street": "A5",
+    "Area": "Karlsruhe",
+    "Location": "AS Karlsruhe-Mitte",
+    "Direction": "Heidelberg",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA041\/KA041_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA041"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "EAEC933F",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.123.11",
+    "Street": "AK F\u00fcrth\/Erlangen - AS E. Frauenaurach",
+    "Area": "AK F\u00fcrth\/Erlangen - AS E. Frauenaurach",
+    "Location": "AK F\u00fcrth\/Erlangen - AS E. Frauenaurach",
+    "Direction": "Blickrichtung&nbsp;W\u00fcrzburg, km 378",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3regensburg-wuerzburg\/192.168.123.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a3-regensburg-wuerzburg_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

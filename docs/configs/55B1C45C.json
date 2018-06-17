@@ -1,0 +1,15 @@
+{
+    "ConfigID": "55B1C45C",
+    "Category": "DE-BW",
+    "ProviderID": "S071",
+    "Street": "A8",
+    "Area": "Ulm",
+    "Location": "Gruibingen",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S071\/S071_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S071"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

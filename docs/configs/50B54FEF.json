@@ -1,0 +1,15 @@
+{
+    "ConfigID": "50B54FEF",
+    "Category": "DE-BW",
+    "ProviderID": "KA071",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Mannheim",
+    "Direction": "Heidelberg",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA071\/KA071_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA071"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

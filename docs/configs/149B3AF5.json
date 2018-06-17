@@ -1,0 +1,15 @@
+{
+    "ConfigID": "149B3AF5",
+    "Category": "DE-BY",
+    "ProviderID": "a92-km001-brm",
+    "Street": "AS Oberschlei\u00dfheim - AD M. Feldmoching",
+    "Area": "AS Oberschlei\u00dfheim - AD M. Feldmoching",
+    "Location": "AS Oberschlei\u00dfheim - AD M. Feldmoching",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 1",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A92Munich-Deggendorf\/a92-km001-brm.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcamsa92muenchen-deggendorf"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

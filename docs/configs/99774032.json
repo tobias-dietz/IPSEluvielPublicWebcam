@@ -1,0 +1,15 @@
+{
+    "ConfigID": "99774032",
+    "Category": "DE-BW",
+    "ProviderID": "KA032",
+    "Street": "A5",
+    "Area": "Karlsruhe",
+    "Location": "AS Karlsruhe-Nord",
+    "Direction": "Basel",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA032\/KA032_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA032"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

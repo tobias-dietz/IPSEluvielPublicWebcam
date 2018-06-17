@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2E81F912",
+    "Category": "DE-BY",
+    "ProviderID": "a96-km162-brli",
+    "Street": "AS Germering-S\u00fcd - AD M.-S\u00fcd-West",
+    "Area": "AS Germering-S\u00fcd - AD M.-S\u00fcd-West",
+    "Location": "AS Germering-S\u00fcd - AD M.-S\u00fcd-West",
+    "Direction": "Blickrichtung&nbsp;Lindau, km 162",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a96munich-lindau\/a96-km162-brli.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a96-muenchen-lindau-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

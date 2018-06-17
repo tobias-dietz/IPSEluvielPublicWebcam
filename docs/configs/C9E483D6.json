@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C9E483D6",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.111.11",
+    "Street": "AS Wendelstein - AS N\u00fcrnberg-Zollhaus",
+    "Area": "AS Wendelstein - AS N\u00fcrnberg-Zollhaus",
+    "Location": "AS Wendelstein - AS N\u00fcrnberg-Zollhaus",
+    "Direction": "Blickrichtung&nbsp;Bamberg, km 6",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a73nuremberg-bamberg\/192.168.111.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a73-nuernberg-bamberg-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

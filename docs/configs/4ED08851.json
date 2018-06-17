@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4ED08851",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211059",
+    "Street": "AS Brannenburg - AS Oberaudorf",
+    "Area": "AS Brannenburg - AS Oberaudorf",
+    "Location": "AS Brannenburg - AS Oberaudorf",
+    "Direction": "Blickrichtung&nbsp;Innsbruck, km 19",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a93rosenheim-kiefersfelden\/mobil211059.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a93-rosenheim-kiefersfelden"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D2D80BB0",
+    "Category": "DE-BW",
+    "ProviderID": "S192",
+    "Street": "A7",
+    "Area": "Aalen",
+    "Location": "Agnesburgtunnel",
+    "Direction": "Ulm",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S192\/S192_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S192"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

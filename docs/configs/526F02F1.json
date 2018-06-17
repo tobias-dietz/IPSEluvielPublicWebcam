@@ -1,0 +1,15 @@
+{
+    "ConfigID": "526F02F1",
+    "Category": "DE-BW",
+    "ProviderID": "S212",
+    "Street": "A8",
+    "Area": "Ulm",
+    "Location": "AS Hohenstadt",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S212\/S212_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S212"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

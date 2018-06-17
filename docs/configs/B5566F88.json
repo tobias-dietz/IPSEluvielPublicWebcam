@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B5566F88",
+    "Category": "DE-BW",
+    "ProviderID": "S082",
+    "Street": "A8",
+    "Area": "Ulm",
+    "Location": "Albaufstieg",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S082\/S082_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S082"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

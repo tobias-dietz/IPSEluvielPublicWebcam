@@ -1,0 +1,15 @@
+{
+    "ConfigID": "10BAE3D2",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210043",
+    "Street": "AS Irschenberg",
+    "Area": "AS Irschenberg",
+    "Location": "AS Irschenberg",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 41",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8munich-ad-inntal\/mobil210043.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-muenchen-ad-inntal"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

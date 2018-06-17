@@ -1,0 +1,15 @@
+{
+    "ConfigID": "BBB0FABA",
+    "Category": "DE-RP",
+    "ProviderID": "1910",
+    "Street": "A65",
+    "Area": "Hassloch",
+    "Location": "112,2 km",
+    "Direction": "A65, Hassloch (112,2 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/1910\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

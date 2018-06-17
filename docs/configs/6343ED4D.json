@@ -1,0 +1,15 @@
+{
+    "ConfigID": "6343ED4D",
+    "Category": "DE-BY",
+    "ProviderID": "kamera-pwc-baarer-weiher-ost-1",
+    "Street": "A9 Baarer Weiher Ost - FR N\u00fcrnberg",
+    "Area": "A9 Baarer Weiher Ost - FR N\u00fcrnberg",
+    "Location": "A9 Baarer Weiher Ost - FR N\u00fcrnberg",
+    "Direction": "Blickrichtung&nbsp;Osten, km 468,5",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9-pl-baarer\/kamera-pwc-baarer-weiher-ost-1.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-an-rastanlagen\/a9-pwc-baarer-weiher"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277831
+}

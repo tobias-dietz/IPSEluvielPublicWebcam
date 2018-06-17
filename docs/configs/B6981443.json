@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B6981443",
+    "Category": "DE-BY",
+    "ProviderID": "a94-km012-brp",
+    "Street": "AK M\u00fcnchen-Ost - AS Parsdorf",
+    "Area": "AK M\u00fcnchen-Ost - AS Parsdorf",
+    "Location": "AK M\u00fcnchen-Ost - AS Parsdorf",
+    "Direction": "Blickrichtung&nbsp;Passau, km 12",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a94munich-passau\/a94-km012-brp.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a94-muenchen-passau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

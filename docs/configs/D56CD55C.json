@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D56CD55C",
+    "Category": "DE-BW",
+    "ProviderID": "S261",
+    "Street": "B27",
+    "Area": "Stuttgart",
+    "Location": "AS Suttgart-M\u00f6hringen-Ost",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S261\/S261_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S261"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

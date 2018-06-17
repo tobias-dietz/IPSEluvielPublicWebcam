@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E0F3291C",
+    "Category": "DE-BW",
+    "ProviderID": "EXT030",
+    "Street": "A6",
+    "Area": "Heilbronn",
+    "Location": "AS Bad Rappenau",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT030\/EXT030_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT030"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

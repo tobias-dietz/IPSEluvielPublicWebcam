@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2007372C",
+    "Category": "DE-BW",
+    "ProviderID": "KA144",
+    "Street": "A5",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Heidelberg",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA144\/KA144_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA144"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

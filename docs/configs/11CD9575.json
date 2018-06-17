@@ -1,0 +1,15 @@
+{
+    "ConfigID": "11CD9575",
+    "Category": "DE-BW",
+    "ProviderID": "FR051",
+    "Street": "A5",
+    "Area": "Freiburg",
+    "Location": "AS Freiburg-Mitte",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR051\/FR051_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR051"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

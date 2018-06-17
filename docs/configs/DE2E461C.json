@@ -1,0 +1,15 @@
+{
+    "ConfigID": "DE2E461C",
+    "Category": "DE-BW",
+    "ProviderID": "K8054",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "Rastst\u00e4tte Denkendorf",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K8054\/K8054_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K8054"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

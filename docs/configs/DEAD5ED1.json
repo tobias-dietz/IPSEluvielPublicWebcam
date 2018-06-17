@@ -1,0 +1,15 @@
+{
+    "ConfigID": "DEAD5ED1",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211011",
+    "Street": "AS Hausen - AS Abendsberg",
+    "Area": "AS Hausen - AS Abendsberg",
+    "Location": "AS Hausen - AS Abendsberg",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 223",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a93hof-holledau\/mobil211011.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcam-a93-holledau-hof-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

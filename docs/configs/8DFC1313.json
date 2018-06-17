@@ -1,0 +1,15 @@
+{
+    "ConfigID": "8DFC1313",
+    "Category": "DE-BW",
+    "ProviderID": "B03",
+    "Street": "A8",
+    "Area": "Karlsruhe",
+    "Location": "Rastplatz Birkenw\u00e4ldle (Karlsbad)",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/B03\/B03_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=B03"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

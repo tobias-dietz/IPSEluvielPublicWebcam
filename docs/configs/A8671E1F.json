@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A8671E1F",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.125.11",
+    "Street": "AS M\u00fcnchberg-S\u00fcd- AS M\u00fcnchberg-Nord",
+    "Area": "AS M\u00fcnchberg-S\u00fcd- AS M\u00fcnchberg-Nord",
+    "Location": "AS M\u00fcnchberg-S\u00fcd- AS M\u00fcnchberg-Nord",
+    "Direction": "Blickrichtung&nbsp;Berlin, km 273",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9nuremberg-hof\/192.168.125.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a9-nuernberg-hof"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

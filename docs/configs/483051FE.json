@@ -1,0 +1,15 @@
+{
+    "ConfigID": "483051FE",
+    "Category": "DE-BW",
+    "ProviderID": "FR044",
+    "Street": "K5349",
+    "Area": "Freiburg",
+    "Location": "AS Rust",
+    "Direction": "Ringsheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR044\/FR044_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR044"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

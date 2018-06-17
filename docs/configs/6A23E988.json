@@ -1,0 +1,15 @@
+{
+    "ConfigID": "6A23E988",
+    "Category": "DE-BY",
+    "ProviderID": "a8w-km007-brst",
+    "Street": "AD M.\/Eschenried - AS Dachau\/FFB",
+    "Area": "AD M.\/Eschenried - AS Dachau\/FFB",
+    "Location": "AD M.\/Eschenried - AS Dachau\/FFB",
+    "Direction": "Blickrichtung&nbsp;Stuttgart, km 7",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8stuttgart-munich\/a8w-km007-brst.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-stuttgart-muenchen"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

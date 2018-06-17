@@ -1,0 +1,15 @@
+{
+    "ConfigID": "098FA3B0",
+    "Category": "DE-BY",
+    "ProviderID": "A9-km522-brm",
+    "Street": "A9 AS Garching-S\u00fcd - AK M\u00fcnchen-Nord",
+    "Area": "A9 AS Garching-S\u00fcd - AK M\u00fcnchen-Nord",
+    "Location": "A9 AS Garching-S\u00fcd - AK M\u00fcnchen-Nord",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 522",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A9Nuremberg-Munich\/A9-km522-brm.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-nuernberg-munich"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

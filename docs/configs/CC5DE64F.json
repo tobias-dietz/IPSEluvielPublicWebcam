@@ -1,0 +1,15 @@
+{
+    "ConfigID": "CC5DE64F",
+    "Category": "DE-BW",
+    "ProviderID": "KA181",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "AS Mannheim-Neckarau",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA181\/KA181_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA181"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

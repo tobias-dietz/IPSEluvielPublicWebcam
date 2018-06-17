@@ -1,0 +1,15 @@
+{
+    "ConfigID": "5BA2647D",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210251",
+    "Street": "AS Passau-Mitte - AS Passau-S\u00fcd",
+    "Area": "AS Passau-Mitte - AS Passau-S\u00fcd",
+    "Location": "AS Passau-Mitte - AS Passau-S\u00fcd",
+    "Direction": "Blickrichtung&nbsp;Linz, km 612",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3regensburg-passau\/mobil210251.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-regensburg-passau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

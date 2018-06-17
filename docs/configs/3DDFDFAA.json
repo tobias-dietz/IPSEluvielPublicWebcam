@@ -1,0 +1,15 @@
+{
+    "ConfigID": "3DDFDFAA",
+    "Category": "DE-BW",
+    "ProviderID": "TU031",
+    "Street": "A96",
+    "Area": "Allg\u00e4u",
+    "Location": "Rastplatz Winterberg",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/TU031\/TU031_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=TU031"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

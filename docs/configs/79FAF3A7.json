@@ -1,0 +1,15 @@
+{
+    "ConfigID": "79FAF3A7",
+    "Category": "DE-BW",
+    "ProviderID": "KA151",
+    "Street": "A5",
+    "Area": "Karlsruhe",
+    "Location": "Rastplatz Silbergrund (Rastatt)",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA151\/KA151_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA151"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

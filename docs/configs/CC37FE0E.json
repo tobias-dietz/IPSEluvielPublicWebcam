@@ -1,0 +1,15 @@
+{
+    "ConfigID": "CC37FE0E",
+    "Category": "DE-BW",
+    "ProviderID": "KA011",
+    "Street": "A6",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Walldorf",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA011\/KA011_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA011"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

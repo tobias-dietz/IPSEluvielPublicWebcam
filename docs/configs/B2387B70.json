@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B2387B70",
+    "Category": "DE-BY",
+    "ProviderID": "kamera-t-r-jura-west-3",
+    "Street": "A3 Jura West - FR Regensburg",
+    "Area": "A3 Jura West - FR Regensburg",
+    "Location": "A3 Jura West - FR Regensburg",
+    "Direction": "Blickrichtung&nbsp;Nord-Westen, km 440",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3-pl-jura\/kamera-t-r-jura-west-3.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-an-rastanlagen\/a3-tur-jura-west"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277830
+}

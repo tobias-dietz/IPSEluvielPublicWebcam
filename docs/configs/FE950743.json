@@ -1,0 +1,15 @@
+{
+    "ConfigID": "FE950743",
+    "Category": "DE-BW",
+    "ProviderID": "EXT009",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "AS Mannheim-Seckenheim",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT009\/EXT009_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT009"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

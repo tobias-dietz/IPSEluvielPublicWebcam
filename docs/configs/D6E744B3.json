@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D6E744B3",
+    "Category": "DE-BY",
+    "ProviderID": "a99-km006-brli",
+    "Street": "AS M.-Lochhausen - AS Germering-Nord",
+    "Area": "AS M.-Lochhausen - AS Germering-Nord",
+    "Location": "AS M.-Lochhausen - AS Germering-Nord",
+    "Direction": "Blickrichtung&nbsp;Lindau, km 6",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a99munich-south-west\/a99-km006-brli.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a99-muenchen-sued-west_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

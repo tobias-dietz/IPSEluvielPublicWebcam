@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E53C0CA4",
+    "Category": "DE-BE",
+    "ProviderID": "269f9db7",
+    "Street": "TU-Hochhaus Ernst-Reuter-Platz, Blickrichtung: Otto-Suhr-Allee (Nordwest)",
+    "Area": "TU-Hochhaus Ernst-Reuter-Platz, Blickrichtung: Otto-Suhr-Allee (Nordwest)",
+    "Location": "TU-Hochhaus Ernst-Reuter-Platz, Blickrichtung: Otto-Suhr-Allee (Nordwest)",
+    "Direction": "TU-Hochhaus Ernst-Reuter-Platz, Blickrichtung: Otto-Suhr-Allee (Nordwest)",
+    "HTTP": {
+        "URL": "http:\/\/vmz-kameras.verwalt-berlin.de\/PicServlet?cam=Cam 028",
+        "Referer": "http:\/\/viz.berlin.de\/web\/guest\/2?p_p_id=vizmap_WAR_vizmapportlet_INSTANCE_Ds4N&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_vizmap_WAR_vizmapportlet_INSTANCE_Ds4N_cmd=traffic&_vizmap_WAR_vizmapportlet_INSTANCE_Ds4N_submenu=traffic_webcams"
+    },
+    "Source": "Verkehrsinformationszentrale Berlin (viz.berlin.de)",
+    "Version": 1529277820
+}

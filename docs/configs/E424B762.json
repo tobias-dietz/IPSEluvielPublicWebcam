@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E424B762",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210035",
+    "Street": "Hohenbrunn",
+    "Area": "Hohenbrunn",
+    "Location": "Hohenbrunn",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 49",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/mobil210035.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

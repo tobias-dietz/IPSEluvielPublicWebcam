@@ -1,0 +1,15 @@
+{
+    "ConfigID": "F1505565",
+    "Category": "DE-BW",
+    "ProviderID": "EXT034",
+    "Street": "A8",
+    "Area": "Ulm",
+    "Location": "M\u00fchlhausen",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT034\/EXT034_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT034"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

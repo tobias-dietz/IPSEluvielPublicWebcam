@@ -1,0 +1,15 @@
+{
+    "ConfigID": "13017107",
+    "Category": "DE-BW",
+    "ProviderID": "S162",
+    "Street": "B27",
+    "Area": "Stuttgart",
+    "Location": "AS Stuttgart-Degerloch-Tr\u00e4nke",
+    "Direction": "T\u00fcbingen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S162\/S162_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S162"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

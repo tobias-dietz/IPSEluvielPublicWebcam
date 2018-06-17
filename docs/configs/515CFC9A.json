@@ -1,0 +1,15 @@
+{
+    "ConfigID": "515CFC9A",
+    "Category": "DE-BW",
+    "ProviderID": "K8104",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "AS Stuttgart-Zuffenhausen",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K8104\/K8104_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K8104"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

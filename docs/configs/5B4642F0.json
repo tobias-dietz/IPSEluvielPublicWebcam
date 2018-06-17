@@ -1,0 +1,15 @@
+{
+    "ConfigID": "5B4642F0",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.107.11",
+    "Street": "AS N\u00fcrnberg-M\u00f6geldorf - AK N\u00fcrnberg",
+    "Area": "AS N\u00fcrnberg-M\u00f6geldorf - AK N\u00fcrnberg",
+    "Location": "AS N\u00fcrnberg-M\u00f6geldorf - AK N\u00fcrnberg",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 402",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3wuerzburg-regensburg\/192.168.107.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a3-wuerzburg-regensburg_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

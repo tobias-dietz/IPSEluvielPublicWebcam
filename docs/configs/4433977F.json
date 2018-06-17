@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4433977F",
+    "Category": "DE-BW",
+    "ProviderID": "K8015",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "AS Stuttgart-M\u00f6hringen",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K8015\/K8015_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K8015"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

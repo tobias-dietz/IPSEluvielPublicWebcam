@@ -1,0 +1,15 @@
+{
+    "ConfigID": "30F34416",
+    "Category": "DE-BW",
+    "ProviderID": "FR052",
+    "Street": "A5",
+    "Area": "Freiburg",
+    "Location": "AS Freiburg-Mitte",
+    "Direction": "Basel",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR052\/FR052_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR052"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

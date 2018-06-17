@@ -1,0 +1,15 @@
+{
+    "ConfigID": "331BFA0C",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212107",
+    "Street": "AK M-Nord - AS Aschheim-Ismaning",
+    "Area": "AK M-Nord - AS Aschheim-Ismaning",
+    "Location": "AK M-Nord - AS Aschheim-Ismaning",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 28",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/mobil212107.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "43C82731",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212043",
+    "Street": "AS Regensburg Universit\u00e4t",
+    "Area": "AS Regensburg Universit\u00e4t",
+    "Location": "AS Regensburg Universit\u00e4t",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 495",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3passau-regensburg\/mobil212043.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-passau-regensburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

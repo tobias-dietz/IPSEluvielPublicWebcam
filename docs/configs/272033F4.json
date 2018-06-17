@@ -1,0 +1,15 @@
+{
+    "ConfigID": "272033F4",
+    "Category": "DE-BY",
+    "ProviderID": "kamera-pwc-gelbelsee-west-1",
+    "Street": "A9 Gelbelsee West - FR M\u00fcnchen",
+    "Area": "A9 Gelbelsee West - FR M\u00fcnchen",
+    "Location": "A9 Gelbelsee West - FR M\u00fcnchen",
+    "Direction": "Blickrichtung&nbsp;S\u00fcd-Osten, km 436",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9-pl-gelbels\/kamera-pwc-gelbelsee-west-1.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-an-rastanlagen\/a9-pwc-gelbelsee"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277831
+}

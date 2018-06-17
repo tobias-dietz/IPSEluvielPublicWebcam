@@ -1,0 +1,15 @@
+{
+    "ConfigID": "20411379",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200163",
+    "Street": "AS W\u00f6rthsee",
+    "Area": "AS W\u00f6rthsee",
+    "Location": "AS W\u00f6rthsee",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 149",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a96lindau-munich\/mobil200163.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a96-lindau-muenchen"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

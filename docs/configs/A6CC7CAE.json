@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A6CC7CAE",
+    "Category": "DE-BW",
+    "ProviderID": "S022",
+    "Street": "A81",
+    "Area": "Heilbronn",
+    "Location": "AK Weinsberg",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S022\/S022_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S022"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

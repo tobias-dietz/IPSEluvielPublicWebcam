@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C633F4AA",
+    "Category": "DE-BW",
+    "ProviderID": "K1",
+    "Street": "A831",
+    "Area": "Stuttgart",
+    "Location": "AK Stuttgart",
+    "Direction": "Stuttgart-Vaihingen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K1\/K1_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K1"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

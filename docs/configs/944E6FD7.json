@@ -1,0 +1,15 @@
+{
+    "ConfigID": "944E6FD7",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212004",
+    "Street": "AK M\u00fcnchen-S\u00fcd",
+    "Area": "AK M\u00fcnchen-S\u00fcd",
+    "Location": "AK M\u00fcnchen-S\u00fcd",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 9",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8ad-inntal-munich\/mobil212004.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-ad-inntal-muenchen"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

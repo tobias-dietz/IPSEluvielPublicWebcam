@@ -1,0 +1,15 @@
+{
+    "ConfigID": "718B9E8C",
+    "Category": "DE-BW",
+    "ProviderID": "KA072",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Mannheim",
+    "Direction": "Mannheim",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA072\/KA072_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA072"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

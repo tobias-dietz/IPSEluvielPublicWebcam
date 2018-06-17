@@ -1,0 +1,15 @@
+{
+    "ConfigID": "720C00B1",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211027",
+    "Street": "AS Sinzing - AK Regensburg",
+    "Area": "AS Sinzing - AK Regensburg",
+    "Location": "AS Sinzing - AK Regensburg",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 489",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3wuerzburg-regensburg\/mobil211027.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a3-wuerzburg-regensburg_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

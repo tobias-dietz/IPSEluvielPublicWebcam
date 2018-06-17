@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D3A7B040",
+    "Category": "DE-BY",
+    "ProviderID": "kamera-pwc-offenbau-west-1",
+    "Street": "A9 Offenbau West - FR M\u00fcnchen",
+    "Area": "A9 Offenbau West - FR M\u00fcnchen",
+    "Location": "A9 Offenbau West - FR M\u00fcnchen",
+    "Direction": "Blickrichtung&nbsp;S\u00fcden, km 411",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9-offenbau\/kamera-pwc-offenbau-west-1.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-an-rastanlagen\/a9-pwc-offenbau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277831
+}

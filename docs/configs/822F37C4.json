@@ -1,0 +1,15 @@
+{
+    "ConfigID": "822F37C4",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.131.12",
+    "Street": "Langwasser Mitte",
+    "Area": "Langwasser Mitte",
+    "Location": "Langwasser Mitte",
+    "Direction": "Blickrichtung&nbsp;Breslauer Str., ",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/nuremberg\/192.168.131.12.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-stadt-nuernberg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277830
+}

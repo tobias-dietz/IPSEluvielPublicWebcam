@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B7F093BB",
+    "Category": "DE-BW",
+    "ProviderID": "FR021",
+    "Street": "A5",
+    "Area": "L\u00f6rrach",
+    "Location": "AS Weil am Rhein\/H\u00fcningen",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR021\/FR021_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR021"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

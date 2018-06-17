@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A5036D67",
+    "Category": "DE-BY",
+    "ProviderID": "a94-km020-brm",
+    "Street": "AS Hohenlinden - AS Forstinning",
+    "Area": "AS Hohenlinden - AS Forstinning",
+    "Location": "AS Hohenlinden - AS Forstinning",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 22",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a94munich-passau\/a94-km020-brm.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a94-muenchen-passau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

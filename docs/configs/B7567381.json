@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B7567381",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212035",
+    "Street": "AS Ottobrunn",
+    "Area": "AS Ottobrunn",
+    "Location": "AS Ottobrunn",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 51",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/mobil212035.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

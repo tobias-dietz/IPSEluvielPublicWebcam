@@ -1,0 +1,15 @@
+{
+    "ConfigID": "0A4CF339",
+    "Category": "DE-BW",
+    "ProviderID": "FR042",
+    "Street": "A5",
+    "Area": "Freiburg",
+    "Location": "AS Rust",
+    "Direction": "Basel",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR042\/FR042_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR042"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

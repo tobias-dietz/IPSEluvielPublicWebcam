@@ -1,0 +1,15 @@
+{
+    "ConfigID": "FB504580",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200091",
+    "Street": "AS Ingolstadt-S\u00fcd - AS Manching",
+    "Area": "AS Ingolstadt-S\u00fcd - AS Manching",
+    "Location": "AS Ingolstadt-S\u00fcd - AS Manching",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 463",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A9Nuremberg-Munich\/mobil200091.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-nuernberg-munich"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D80F9AA8",
+    "Category": "DE-BW",
+    "ProviderID": "FR012",
+    "Street": "A5",
+    "Area": "L\u00f6rrach",
+    "Location": "AD Weil am Rhein",
+    "Direction": "Basel",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR012\/FR012_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR012"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

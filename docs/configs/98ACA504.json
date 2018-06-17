@@ -1,0 +1,15 @@
+{
+    "ConfigID": "98ACA504",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200003",
+    "Street": "AS Pfaffenhofen - AS Allershausen",
+    "Area": "AS Pfaffenhofen - AS Allershausen",
+    "Location": "AS Pfaffenhofen - AS Allershausen",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 498",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A9Nuremberg-Munich\/mobil200003.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-nuernberg-munich"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

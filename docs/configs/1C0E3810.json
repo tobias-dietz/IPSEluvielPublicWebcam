@@ -1,0 +1,15 @@
+{
+    "ConfigID": "1C0E3810",
+    "Category": "DE-BW",
+    "ProviderID": "RLP110",
+    "Street": "A6",
+    "Area": "Rheinland-Pfalz",
+    "Location": "AS Frankenthal",
+    "Direction": "Kaiserslautern",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/RLP110\/RLP110_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=RLP110"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

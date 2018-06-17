@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2B72225A",
+    "Category": "DE-BW",
+    "ProviderID": "FR041",
+    "Street": "A5",
+    "Area": "Freiburg",
+    "Location": "AS Rust",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR041\/FR041_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR041"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

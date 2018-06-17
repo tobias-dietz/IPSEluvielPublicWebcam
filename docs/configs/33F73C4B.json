@@ -1,0 +1,15 @@
+{
+    "ConfigID": "33F73C4B",
+    "Category": "DE-BW",
+    "ProviderID": "KA074",
+    "Street": "A6",
+    "Area": "Rhein-Neckar",
+    "Location": "AK Mannheim",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA074\/KA074_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA074"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

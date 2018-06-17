@@ -1,0 +1,15 @@
+{
+    "ConfigID": "23C63FF6",
+    "Category": "DE-BW",
+    "ProviderID": "K10",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "AS Stuttgart-Feuerbach",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K10\/K10_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K10"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "9ED537B2",
+    "Category": "DE-BW",
+    "ProviderID": "FR091",
+    "Street": "A98",
+    "Area": "Singen",
+    "Location": "AS Stockach-Ost\/\u00dcbergang B31",
+    "Direction": "Friedrichshafen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR091\/FR091_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR091"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

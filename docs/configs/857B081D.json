@@ -1,0 +1,15 @@
+{
+    "ConfigID": "857B081D",
+    "Category": "DE-BY",
+    "ProviderID": "a99-km017-brsa",
+    "Street": "AS M-Ludwigsfeld - AD Feldmoching",
+    "Area": "AS M-Ludwigsfeld - AD Feldmoching",
+    "Location": "AS M-Ludwigsfeld - AD Feldmoching",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 17",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/a99-km017-brsa.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A3C8F71D",
+    "Category": "DE-BW",
+    "ProviderID": "KA022",
+    "Street": "A5",
+    "Area": "Karlsruhe",
+    "Location": "AS Bruchsal",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA022\/KA022_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA022"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

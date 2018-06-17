@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E70D25C9",
+    "Category": "DE-BW",
+    "ProviderID": "K2",
+    "Street": "A81",
+    "Area": "Stuttgart",
+    "Location": "AK Stuttgart",
+    "Direction": "Singen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K2\/K2_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K2"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

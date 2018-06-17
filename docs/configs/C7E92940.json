@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C7E92940",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.129.12",
+    "Street": "AS Rottendorf",
+    "Area": "AS Rottendorf",
+    "Location": "AS Rottendorf",
+    "Direction": "Blickrichtung&nbsp;Frankfurt, km 298",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3wuerzburg-frankfurt\/192.168.129.12.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a3-wuerzburg-frankfurt-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

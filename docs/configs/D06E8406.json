@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D06E8406",
+    "Category": "DE-BW",
+    "ProviderID": "EXT037",
+    "Street": "A6",
+    "Area": "Rhein-Neckar",
+    "Location": "AS Mannheim-Sandhofen West",
+    "Direction": "Kaiserslautern",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT037\/EXT037_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT037"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

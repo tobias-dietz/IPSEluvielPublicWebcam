@@ -1,0 +1,15 @@
+{
+    "ConfigID": "F641893C",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211115",
+    "Street": "AS Percha - AD Starnberg",
+    "Area": "AS Percha - AD Starnberg",
+    "Location": "AS Percha - AD Starnberg",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 2",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a952ad-starnberg-starnberg\/mobil211115.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a952-ad-starnberg-starnberg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

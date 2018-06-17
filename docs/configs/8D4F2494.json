@@ -1,0 +1,15 @@
+{
+    "ConfigID": "8D4F2494",
+    "Category": "DE-BW",
+    "ProviderID": "FR031",
+    "Street": "A861",
+    "Area": "L\u00f6rrach",
+    "Location": "AS Rheinfelden-S\u00fcd",
+    "Direction": "L\u00f6rrach",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR031\/FR031_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR031"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

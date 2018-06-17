@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C8725DCA",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.132.11",
+    "Street": "M\u00fcnchener Stra\u00dfe",
+    "Area": "M\u00fcnchener Stra\u00dfe",
+    "Location": "M\u00fcnchener Stra\u00dfe",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchener Str., ",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/nuremberg\/192.168.132.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-stadt-nuernberg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277830
+}

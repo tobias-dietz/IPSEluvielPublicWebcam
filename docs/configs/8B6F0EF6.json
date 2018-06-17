@@ -1,0 +1,15 @@
+{
+    "ConfigID": "8B6F0EF6",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.117.11",
+    "Street": "AK N\u00fcrnberg\/Ost - AD N\u00fcrnberg\/Feucht",
+    "Area": "AK N\u00fcrnberg\/Ost - AD N\u00fcrnberg\/Feucht",
+    "Location": "AK N\u00fcrnberg\/Ost - AD N\u00fcrnberg\/Feucht",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 385",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9hof-nuremberg\/192.168.117.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a9-hof-nuernberg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

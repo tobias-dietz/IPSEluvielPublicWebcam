@@ -1,0 +1,15 @@
+{
+    "ConfigID": "7E951FA1",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.108.11",
+    "Street": "AS Roth - AS N\u00fcrnberg-Langwasser",
+    "Area": "AS Roth - AS N\u00fcrnberg-Langwasser",
+    "Location": "AS Roth - AS N\u00fcrnberg-Langwasser",
+    "Direction": "Blickrichtung&nbsp;Amberg, km 789",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a6heilbronn-nuremberg\/192.168.108.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a6-heilbronn-nuernberg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

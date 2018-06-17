@@ -1,0 +1,15 @@
+{
+    "ConfigID": "21CFAB03",
+    "Category": "DE-BW",
+    "ProviderID": "S051",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "AS Stuttgart-Flughafen\/Messe",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S051\/S051_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S051"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B90EED97",
+    "Category": "DE-BW",
+    "ProviderID": "EXT025",
+    "Street": "A6",
+    "Area": "Rhein-Neckar",
+    "Location": "Frauenweiler",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT025\/EXT025_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT025"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

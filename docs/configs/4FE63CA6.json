@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4FE63CA6",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210083",
+    "Street": "AS Wolnzach - AS Mainburg",
+    "Area": "AS Wolnzach - AS Mainburg",
+    "Location": "AS Wolnzach - AS Mainburg",
+    "Direction": "Blickrichtung&nbsp;Hof, km 259",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a93hof-holledau\/mobil210083.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcam-a93-holledau-hof-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

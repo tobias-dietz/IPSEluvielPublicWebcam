@@ -1,0 +1,15 @@
+{
+    "ConfigID": "05F5F1D3",
+    "Category": "DE-BW",
+    "ProviderID": "KA052",
+    "Street": "A8",
+    "Area": "Karlsruhe",
+    "Location": "AD Karlsruhe",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/KA052\/KA052_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=KA052"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

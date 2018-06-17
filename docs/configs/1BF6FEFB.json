@@ -1,0 +1,15 @@
+{
+    "ConfigID": "1BF6FEFB",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200219",
+    "Street": "AK M-Ost - AS Haar",
+    "Area": "AK M-Ost - AS Haar",
+    "Location": "AK M-Ost - AS Haar",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 38",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A99Munich-West-South\/mobil200219.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-muenchen-a99-west-sued"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

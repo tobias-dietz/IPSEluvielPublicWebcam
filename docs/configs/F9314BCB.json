@@ -1,0 +1,15 @@
+{
+    "ConfigID": "F9314BCB",
+    "Category": "DE-BW",
+    "ProviderID": "FR011",
+    "Street": "A5",
+    "Area": "L\u00f6rrach",
+    "Location": "AD Weil am Rhein",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/FR011\/FR011_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=FR011"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

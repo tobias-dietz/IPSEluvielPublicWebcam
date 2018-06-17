@@ -1,0 +1,15 @@
+{
+    "ConfigID": "CBEB1A53",
+    "Category": "DE-BY",
+    "ProviderID": "mobil003",
+    "Street": "AS Ro\u00dfdorf am Berg - AS Sche\u00dflitz",
+    "Area": "AS Ro\u00dfdorf am Berg - AS Sche\u00dflitz",
+    "Location": "AS Ro\u00dfdorf am Berg - AS Sche\u00dflitz",
+    "Direction": "Blickrichtung&nbsp;Schweinfurt, km 79",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a70schweinfurt-bayreuth\/mobil003.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a70-schweinfurt-bayreuth-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

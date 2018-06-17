@@ -1,0 +1,15 @@
+{
+    "ConfigID": "CAF7011D",
+    "Category": "DE-BW",
+    "ProviderID": "RLP815",
+    "Street": "B10",
+    "Area": "Rheinland-Pfalz",
+    "Location": "Maximiliansau",
+    "Direction": "Pirmasens",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/RLP815\/RLP815_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=RLP815"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

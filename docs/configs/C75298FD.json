@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C75298FD",
+    "Category": "DE-BW",
+    "ProviderID": "EXT012",
+    "Street": "A656",
+    "Area": "Rhein-Neckar",
+    "Location": "Br\u00fccke MA-Friedrichsfeld West",
+    "Direction": "Heidelberg",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT012\/EXT012_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT012"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

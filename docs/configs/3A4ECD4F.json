@@ -1,0 +1,15 @@
+{
+    "ConfigID": "3A4ECD4F",
+    "Category": "DE-BW",
+    "ProviderID": "S042",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "AS Stuttgart-Degerloch",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S042\/S042_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S042"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

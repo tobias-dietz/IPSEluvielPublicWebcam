@@ -1,0 +1,15 @@
+{
+    "ConfigID": "6F0E7373",
+    "Category": "DE-BW",
+    "ProviderID": "S061",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "Aichelberg",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S061\/S061_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S061"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

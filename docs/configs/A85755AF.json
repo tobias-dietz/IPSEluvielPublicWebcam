@@ -1,0 +1,15 @@
+{
+    "ConfigID": "A85755AF",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210123",
+    "Street": "AS Bogen - AS Straubing",
+    "Area": "AS Bogen - AS Straubing",
+    "Location": "AS Bogen - AS Straubing",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 541",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3passau-regensburg\/mobil210123.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-passau-regensburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

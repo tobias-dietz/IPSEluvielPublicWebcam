@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2E0A18C4",
+    "Category": "DE-BW",
+    "ProviderID": "S281",
+    "Street": "B27",
+    "Area": "Stuttgart",
+    "Location": "AS Aichtal\/B312",
+    "Direction": "Stuttgart",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S281\/S281_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S281"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

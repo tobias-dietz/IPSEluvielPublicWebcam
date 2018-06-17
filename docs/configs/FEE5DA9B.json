@@ -1,0 +1,15 @@
+{
+    "ConfigID": "FEE5DA9B",
+    "Category": "DE-RP",
+    "ProviderID": "115",
+    "Street": "A6",
+    "Area": "Kreuz Frankenthal",
+    "Location": "573,5 km",
+    "Direction": "A6, Kreuz Frankenthal (573,5 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/115\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

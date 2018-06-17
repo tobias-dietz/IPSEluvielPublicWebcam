@@ -1,0 +1,15 @@
+{
+    "ConfigID": "F0AC3EFD",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200220",
+    "Street": "AS Haar - AK M-Ost",
+    "Area": "AS Haar - AK M-Ost",
+    "Location": "AS Haar - AK M-Ost",
+    "Direction": "Blickrichtung&nbsp;Stuttgart, km 38",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a99munich-south-west\/mobil200220.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a99-muenchen-sued-west_de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277829
+}

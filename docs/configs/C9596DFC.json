@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C9596DFC",
+    "Category": "DE-BW",
+    "ProviderID": "S181",
+    "Street": "A7",
+    "Area": "Aalen",
+    "Location": "Buchbachtalbr\u00fccke",
+    "Direction": "W\u00fcrzburg",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/S181\/S181_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=S181"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

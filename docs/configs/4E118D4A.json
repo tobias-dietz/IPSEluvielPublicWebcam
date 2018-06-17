@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4E118D4A",
+    "Category": "DE-BW",
+    "ProviderID": "K8002",
+    "Street": "A8",
+    "Area": "Stuttgart",
+    "Location": "Rastst\u00e4tte Sindelfinger Wald",
+    "Direction": "Karlsruhe",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/K8002\/K8002_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=K8002"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

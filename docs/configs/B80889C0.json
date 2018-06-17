@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B80889C0",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.102.11",
+    "Street": "AS N\u00fcrnberg-Fischbach - AK N\u00fcrnberg\/Ost",
+    "Area": "AS N\u00fcrnberg-Fischbach - AK N\u00fcrnberg\/Ost",
+    "Location": "AS N\u00fcrnberg-Fischbach - AK N\u00fcrnberg\/Ost",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 380",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a9hof-nuremberg\/192.168.102.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a9-hof-nuernberg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

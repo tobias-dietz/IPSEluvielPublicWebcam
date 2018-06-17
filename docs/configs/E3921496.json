@@ -1,0 +1,15 @@
+{
+    "ConfigID": "E3921496",
+    "Category": "DE-RP",
+    "ProviderID": "600",
+    "Street": "B10",
+    "Area": "Pirmasens",
+    "Location": "0 km",
+    "Direction": "B10, Pirmasens (0 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/600\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

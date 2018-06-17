@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C2B5D0EE",
+    "Category": "DE-BW",
+    "ProviderID": "EXT038",
+    "Street": "A6",
+    "Area": "Rhein-Neckar",
+    "Location": "AS Mannheim-Sandhofen West",
+    "Direction": "Heilbronn",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT038\/EXT038_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT038"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}

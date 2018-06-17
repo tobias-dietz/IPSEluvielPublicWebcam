@@ -1,0 +1,15 @@
+{
+    "ConfigID": "D3F60590",
+    "Category": "DE-BY",
+    "ProviderID": "a94-km012-brm",
+    "Street": "AS Parsdorf - AK M\u00fcnchen-Ost",
+    "Area": "AS Parsdorf - AK M\u00fcnchen-Ost",
+    "Location": "AS Parsdorf - AK M\u00fcnchen-Ost",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 12",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a94munich-passau\/a94-km012-brm.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a94-muenchen-passau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

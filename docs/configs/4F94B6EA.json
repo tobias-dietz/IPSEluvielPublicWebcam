@@ -1,0 +1,15 @@
+{
+    "ConfigID": "4F94B6EA",
+    "Category": "DE-BY",
+    "ProviderID": "mobil200052",
+    "Street": "AS Langenbruck - AD Holledau",
+    "Area": "AS Langenbruck - AD Holledau",
+    "Location": "AS Langenbruck - AD Holledau",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 480",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A9Nuremberg-Munich\/mobil200052.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-all-nuernberg-munich"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

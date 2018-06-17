@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C06D7CB4",
+    "Category": "DE-BY",
+    "ProviderID": "a94-km020-brp",
+    "Street": "AS Hohenlinden - AS Pastetten",
+    "Area": "AS Hohenlinden - AS Pastetten",
+    "Location": "AS Hohenlinden - AS Pastetten",
+    "Direction": "Blickrichtung&nbsp;Passau, km 22",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a94munich-passau\/a94-km020-brp.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a94-muenchen-passau"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

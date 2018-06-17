@@ -1,0 +1,15 @@
+{
+    "ConfigID": "AEBC53A7",
+    "Category": "DE-BY",
+    "ProviderID": "192.168.118.11",
+    "Street": "AS Baiersdorf-Nord - AS M\u00f6hrendorf",
+    "Area": "AS Baiersdorf-Nord - AS M\u00f6hrendorf",
+    "Location": "AS Baiersdorf-Nord - AS M\u00f6hrendorf",
+    "Direction": "Blickrichtung&nbsp;AD N\u00fcrnberg\/Feucht, km 130",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a73bamberg-nuremberg\/192.168.118.11.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcams-a73-bamberg-nuernberg-de"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277826
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigID": "B72AC491",
+    "Category": "DE-BY",
+    "ProviderID": "mobil212019",
+    "Street": "AS Holzkirchen - AS Hofoldinger Forst",
+    "Area": "AS Holzkirchen - AS Hofoldinger Forst",
+    "Location": "AS Holzkirchen - AS Hofoldinger Forst",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 22",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8ad-inntal-munich\/mobil212019.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-ad-inntal-muenchen"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

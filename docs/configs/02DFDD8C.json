@@ -1,0 +1,15 @@
+{
+    "ConfigID": "02DFDD8C",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211163",
+    "Street": "AS Altdorf - AS Landshut-West",
+    "Area": "AS Altdorf - AS Landshut-West",
+    "Location": "AS Altdorf - AS Landshut-West",
+    "Direction": "Blickrichtung&nbsp;M\u00fcnchen, km 61",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/A92Munich-Deggendorf\/mobil211163.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/webcamsa92muenchen-deggendorf"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277828
+}

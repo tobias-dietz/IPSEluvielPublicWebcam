@@ -1,0 +1,15 @@
+{
+    "ConfigID": "2A330A61",
+    "Category": "DE-BY",
+    "ProviderID": "mobil211067",
+    "Street": "AS Frasdorf - AS Bernau",
+    "Area": "AS Frasdorf - AS Bernau",
+    "Location": "AS Frasdorf - AS Bernau",
+    "Direction": "Blickrichtung&nbsp;Salzburg, km 72",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a8ad-inntal-salzburg\/mobil211067.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a8-ad-inntal-salzburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277827
+}

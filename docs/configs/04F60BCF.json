@@ -1,0 +1,15 @@
+{
+    "ConfigID": "04F60BCF",
+    "Category": "DE-BY",
+    "ProviderID": "mobil210115",
+    "Street": "AS Woerth a.d.Donau\/Wiesent-AS Rosenhof",
+    "Area": "AS Woerth a.d.Donau\/Wiesent-AS Rosenhof",
+    "Location": "AS Woerth a.d.Donau\/Wiesent-AS Rosenhof",
+    "Direction": "Blickrichtung&nbsp;Regensburg, km 513",
+    "HTTP": {
+        "URL": "http:\/\/www.bayerninfo.de\/webcams\/images\/a3passau-regensburg\/mobil210115.jpg",
+        "Referer": "http:\/\/www.bayerninfo.de\/webcams\/a3-passau-regensburg"
+    },
+    "Source": "Bayerisches Staatsministerium des Innern, f\u00fcr Bau und Verkehr sowie Konsortium VIB und VIB Verkehrsinformationsagentur Bayern GmbH (http:\/\/www.bayerninfo.de)",
+    "Version": 1529277825
+}

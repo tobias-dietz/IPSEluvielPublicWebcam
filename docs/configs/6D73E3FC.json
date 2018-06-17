@@ -1,0 +1,15 @@
+{
+    "ConfigID": "6D73E3FC",
+    "Category": "DE-RP",
+    "ProviderID": "165",
+    "Street": "A6",
+    "Area": "Kaiserslautern Ost",
+    "Location": "613,2 km",
+    "Direction": "A6, Kaiserslautern Ost (613,2 km)",
+    "HTTP": {
+        "URL": "http:\/\/verkehr.rlp.de\/syncdata\/cam\/165\/thumb_640x480.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/verkehr.rlp.de\/index.php?lang=10&menu1=50&menu2=10&menu3="
+    },
+    "Source": "Landesbetrieb Mobilit\u00e4t Rheinland-Pfalz (http:\/\/verkehr.rlp.de)",
+    "Version": 1529277821
+}

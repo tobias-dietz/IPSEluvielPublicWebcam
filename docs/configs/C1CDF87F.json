@@ -1,0 +1,15 @@
+{
+    "ConfigID": "C1CDF87F",
+    "Category": "DE-BW",
+    "ProviderID": "EXT033",
+    "Street": "A8",
+    "Area": "Ulm",
+    "Location": "M\u00fchlhausen",
+    "Direction": "M\u00fcnchen",
+    "HTTP": {
+        "URL": "http:\/\/www.svz-bw.de\/kamera\/ftpdata\/EXT033\/EXT033_gross.jpg?{%UNIX_TIMESTAMP%}",
+        "Referer": "http:\/\/www.svz-bw.de\/fileadmin\/templates\/vizbw1\/kameradetail.php?id=EXT033"
+    },
+    "Source": "Stra\u00dfenverkehrszentrale Baden-W\u00fcrttemberg (www.svz-bw.de)",
+    "Version": 1529277815
+}
